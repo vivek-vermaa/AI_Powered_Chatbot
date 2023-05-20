@@ -1,5 +1,3 @@
-# AI_Powered_Chatbot
-An AI Powerd Chatbot using Chat GPT
 # AI Powered Chatbot
 A script to generate a conversation between two ChatGPT bots
 
